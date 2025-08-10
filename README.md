@@ -1,4 +1,4 @@
 # deltautismo
-DELTAUTISMO es un mod-traducción parodia de DELTARUNE (de Toby Fox) protagonizado por Undertortuga (https://twitter.com/und3rt0rtug4), RalseiKebabs (https://twitter.com/ralseikebabs), Mykan (https://twitter.com/nekrotetas), y posiblemente Perrotortuga (https://twitter.com/p3rr0t0rtug4) y Noelletortillera (https://twitter.com/NoelleTortillas).
+DELTAUTISMO es un mod-parodia de DELTARUNE (de Toby Fox) protagonizado por Undertortuga/Turosu (https://twitter.com/und3rt0rtug4 || https://twitter.com/turosu19), AsrielKebabs (https://twitter.com/asrielkebabs), Mykan (https://twitter.com/senonecrosis), y posiblemente Perrotortuga (https://twitter.com/p3rr0t0rtug4) y Noelletortillera/OtakeTanuki (https://twitter.com/NoelleTortillas || https://twitter.com/OtakeTtanuki).
 
-Archivos de texto editados por Undertortuga y RalseiKebabs, gracias a todos los que hicieron posible esta idea <3
+Archivos de texto editados por Undertortuga/Turosu y AsrielKebabs, gracias a todos los que hicieron posible esta idea <3
