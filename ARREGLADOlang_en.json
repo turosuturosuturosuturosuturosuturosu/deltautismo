@@ -659,7 +659,7 @@
   "obj_dummyenemy_slash_Step_0_gml_129_0": "\\E8* Así que^1, emm^1, ¿puedes dejar de defenderte?/%",
   "obj_dummyenemy_slash_Step_0_gml_136_0": "\\E9* .../%",
   "obj_dummyenemy_slash_Step_0_gml_602_0": "\\E6* Ay^1, ¡vaya hostia^1, Kris^1! ¡Pero estás aprendiendo!/",
-  "obj_dummyenemy_slash_Step_0_gml_598_0": "* ¡Bien hecho^1, Kris^1!&* ¡Sabes moverte ligéramente a los lados!/",
+  "obj_dummyenemy_slash_Step_0_gml_598_0": "* ¡Bien hecho^1, Kris^1!&* ¡Sabes moverte ligeramente a los lados!/",
   "obj_dummyenemy_slash_Step_0_gml_604_0": "\\E8* En cualquier caso^1, ¡tras el turno del enemigo llega el tuyo^1, Kris!/",
   "obj_dummyenemy_slash_Step_0_gml_605_0": "\\E0* Primero^1, te enseñaré cómo \\cYLUCHAR\\cW (\\I0    )./",
   "obj_dummyenemy_slash_Step_0_gml_606_0": "\\E1* Aunque \\cYLUCHAR\\cW es innecesario en este mundo.../",
@@ -6243,3 +6243,4 @@
   "special_name_check_18": "QC"
 
 }
+
