@@ -665,8 +665,8 @@
   "obj_dummyenemy_slash_Step_0_gml_606_0": "\\E1* Aunque \\cYLUCHAR\\cW es innecesario en este mundo.../",
   "obj_dummyenemy_slash_Step_0_gml_607_0": "\\E8* ¡No creo que pase nada por probar!/%",
   "obj_dummyenemy_slash_Step_0_gml_610_0": "* ¡Intenta LUCHAR!&  (\\I0   )",
-  "obj_dummyenemy_slash_Step_0_gml_642_0": "* JOSEMIGUEL - AT 0 DF 0&* Está hecho de tela.&* Te has de inventar el nombre./%",
-  "obj_dummyenemy_slash_Step_0_gml_645_0": "* JOSEMIGUEL - AT 0 DF 0&* Está hecho de tela.&* Te has de inventar el nombre./",
+  "obj_dummyenemy_slash_Step_0_gml_642_0": "* JOSEMIGUEL - AT 0 DF 0&* Está hecho de tela.&* Te has inventado el nombre./%",
+  "obj_dummyenemy_slash_Step_0_gml_645_0": "* JOSEMIGUEL - AT 0 DF 0&* Está hecho de tela.&* Te has inventado el nombre./",
   "obj_dummyenemy_slash_Step_0_gml_327_0": "\\E3* O-oye^1, Kris^1...&* ¡Ese ataque ha sido muy bueno!/",
   "obj_dummyenemy_slash_Step_0_gml_328_0": "\\E8* No serás un \\cRCharero\\cW de esos... ¿Verdad?/",
   "obj_dummyenemy_slash_Step_0_gml_332_0": "\\E0* ¡Buen golpe^1, Kris^1!&* De todas formas^1, harás mas daño.../",
@@ -734,10 +734,10 @@
   "obj_dummyenemy_slash_Step_0_gml_746_0": "* Aww^1, ¡lo haces genial^1, Kris!/",
   "obj_dummyenemy_slash_Step_0_gml_747_0": "\\E0* Cada enemigo tendrá un ACTO diferente que les deje satisfechos./",
   "obj_dummyenemy_slash_Step_0_gml_748_0": "* Cuando esté satisfecho^1, su nombre se volverá \\cYAMARILLO\\cW./",
-  "obj_dummyenemy_slash_Step_0_gml_749_0": "*Y entonces^1, ¡podrás derrotarle usando \\cYPIEDAD\\cW!/",
+  "obj_dummyenemy_slash_Step_0_gml_749_0": "* Y entonces^1, ¡podrás derrotarle usando \\cYPIEDAD\\cW!/",
   "obj_dummyenemy_slash_Step_0_gml_750_0": "* Si mostramos \\cYPIEDAD\\cW a los enemigos, ¡no tendremos que \\cYLUCHAR\\cW!/%",
   "obj_dummyenemy_slash_Step_0_gml_711_0": "* ¡Cuánto cariño^1, Kris!/%",
-  "obj_dummyenemy_slash_Step_0_gml_714_0": "* ¡Los abrazos molan^1, Kris^1!&* ¡Pero con uno era suficiente!/%",
+  "obj_dummyenemy_slash_Step_0_gml_714_0": "* ¡Los abrazos molan^1!&* ¡Pero con uno era suficiente!/%",
   "obj_dummyenemy_slash_Step_0_gml_715_0": "\\E8* Kris^1, tío que nos van a shippear./%",
   "obj_dummyenemy_slash_Step_0_gml_722_0": "* ¿Eh?..^1. Kris^1, ¿prefieres derrotarle a base de abrazos?/",
   "obj_dummyenemy_slash_Step_0_gml_723_0": "\\E1* .../",
@@ -6243,4 +6243,5 @@
   "special_name_check_18": "QC"
 
 }
+
 
